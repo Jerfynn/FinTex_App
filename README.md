@@ -149,22 +149,6 @@ Jerfin
 ECE Student | Developer | Tech Enthusiast
 
 ---
-```
-
-GitHub automatically shows it on your repo homepage.
-
----
-
-# 🚀 If You Want I Can Upgrade This README
-I can customize based on:
-
-- Your actual database type  
-- Real API endpoints  
-- App screenshots  
-- Your YouTube / Portfolio  
-- Add badges (Flutter, Node.js, etc.)
-
-Just tell 👍
 
 ```
 ---
